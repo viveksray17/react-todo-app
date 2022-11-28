@@ -1,5 +1,6 @@
 {
   "name": "react-application",
+  "homepage": "https://viveksray17.github.io/react-todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

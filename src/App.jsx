@@ -34,7 +34,7 @@ function App() {
 	return (
 		<div>
 			<input placeholder="enter todo" ref={inputTodoRef} />
-			<button className="btn btn-primary" onClick={addTodo}>Add Todo</button>
+			<button className="btn btn-primary btn-sm" onClick={addTodo}>Add Todo</button>
 			<Todos todos={todos} deleteTodo={deleteTodo}/>
 		</div>
 	);
